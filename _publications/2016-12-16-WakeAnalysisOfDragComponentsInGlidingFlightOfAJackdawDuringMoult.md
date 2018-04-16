@@ -6,7 +6,7 @@ excerpt: 'To maintain the quality of the feathers, birds regularly undergo moult
 date: 2016-12-16
 venue: 'Interface Focus'
 paperurl: 'http://rsfs.royalsocietypublishing.org/content/7/1/20160081'
-citation: 'KleinHeerenbrink, M., Hedenström, A. (2016). &quot;Wake analysis of drag components in gliding flight of a jackdaw (Corvus monedula) during moult.&quot; <i>Interface Focus</i>. (7)1. [doi:10.1098/rsfs.2016.0081](http://dx.doi.org/10.1098/rsfs.2016.0081)'
+citation: 'KleinHeerenbrink, M., Hedenström, A. (2016). &quot;Wake analysis of drag components in gliding flight of a jackdaw (Corvus monedula) during moult.&quot; <i>Interface Focus</i>. (7)1. doi:10.1098/rsfs.2016.0081'
 ---
 
 [Download publisher pdf here](http://rsfs.royalsocietypublishing.org/content/7/1/20160081.full.pdf)
