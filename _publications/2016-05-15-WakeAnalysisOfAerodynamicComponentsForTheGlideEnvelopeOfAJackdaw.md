@@ -6,7 +6,7 @@ excerpt: 'Gliding flight is a relatively inexpensive mode of flight used by many
 date: 2016-05-15
 venue: 'Journal of Experimental Biology'
 paperurl: 'http://jeb.biologists.org/content/219/10/1572'
-citation: 'KleinHeerenbrink, M., Warfvinge, K., Hedenström, A. (2016). &quot;Wake analysis of aerodynamic components for the glide envelope of a jackdaw (Corvus monedula)&quot; <i>Journal of Experimental Biology</i>. 219: 1572-1581. [doi:10.1242/jeb.132480](http://dx.doi.org/10.1242/jeb.132480)'
+citation: 'KleinHeerenbrink, M., Warfvinge, K., Hedenström, A. (2016). &quot;Wake analysis of aerodynamic components for the glide envelope of a jackdaw (Corvus monedula)&quot; <i>Journal of Experimental Biology</i>. 219: 1572-1581. doi:10.1242/jeb.132480'
 ---
 
 [Download publisher pdf here](http://jeb.biologists.org/content/219/10/1572.full.pdf)
