@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Marco Klein Heerenbrink"
+  name             : "Marco KleinHeerenbrink"
   avatar           : "profile.png"
   bio              : "Animal flight"
   location         : "Oxford, UK"
@@ -100,6 +100,8 @@ author:
   linkedin         : "https://www.linkedin.com/in/mkleinheerenbrink/"
   orcid            : "https://orcid.org/0000-0001-8172-8121"
   pinterest        :
+  publons          : "https://publons.com/author/696187/marco-kleinheerenbrink"
+  researchgate     : "https://www.researchgate.net/profile/Marco_Klein_Heerenbrink"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
