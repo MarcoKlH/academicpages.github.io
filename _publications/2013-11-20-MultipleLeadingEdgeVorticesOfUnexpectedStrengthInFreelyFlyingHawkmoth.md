@@ -6,9 +6,9 @@ excerpt: 'The Leading Edge Vortex (LEV) is a universal mechanism enhancing lift 
 date: 2013-11-20
 venue: 'Scientific Reports'
 paperurl: 'https://www.nature.com/articles/srep03264'
-citation: 'Johansson, L. C., Engel, S., Kelber, A., Klein Heerenbrink, M & Hedenström, Anders (2013). &quot;Multiple leading edge vortices of unexpected strength in freely flying hawkmoth.&quot; <i>Scientific Reports</i>. 3. doi:10.1038/srep03264'
+citation: 'Johansson, L. C., Engel, S., Kelber, A., Klein Heerenbrink, M. & Hedenström, A. (2013). &quot;Multiple leading edge vortices of unexpected strength in freely flying hawkmoth.&quot; <i>Scientific Reports</i>. 3. doi:10.1038/srep03264'
 ---
 
 [Download paper here](https://www.nature.com/articles/srep03264.pdf)
 
-Recommended citation: Johansson, L. C., Engel, S., Kelber, A., Klein Heerenbrink, M & Hedenström, Anders (2013). &quot;Multiple leading edge vortices of unexpected strength in freely flying hawkmoth.&quot; <i>Scientific Reports</i>. 3. [doi:10.1038/srep03264](http://dx.doi.org/10.1038/srep03264)
+Recommended citation: Johansson, L. C., Engel, S., Kelber, A., Klein Heerenbrink, M. & Hedenström, A. (2013). &quot;Multiple leading edge vortices of unexpected strength in freely flying hawkmoth.&quot; <i>Scientific Reports</i>. 3. [doi:10.1038/srep03264](http://dx.doi.org/10.1038/srep03264)
