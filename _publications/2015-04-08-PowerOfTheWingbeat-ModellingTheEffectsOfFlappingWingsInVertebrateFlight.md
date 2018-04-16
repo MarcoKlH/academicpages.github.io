@@ -6,7 +6,7 @@ excerpt: 'Animal flight performance has been studied using models developed for 
 date: 2015-04-08
 venue: 'Proceedings of the Royal Society A'
 paperurl: 'http://rspa.royalsocietypublishing.org/content/471/2177/20140952'
-citation: 'Klein Heerenbrink, M., Johansson, L.C., Hedenström, A. (2015). &quot;Power of the wingbeat: modelling the effects of flapping wings in vertebrate flight.&quot; <i>Proceedings of the Royal Society A</i>. [doi:10.1098/rspa.2014.0952](https://doi.org/10.1098/rspa.2014.0952).'
+citation: 'Klein Heerenbrink, M., Johansson, L.C., Hedenström, A. (2015). &quot;Power of the wingbeat: modelling the effects of flapping wings in vertebrate flight.&quot; <i>Proceedings of the Royal Society A</i>. doi:10.1098/rspa.2014.0952.'
 ---
 
 [Download publisher pdf here](http://rspa.royalsocietypublishing.org/content/471/2177/20140952.full.pdf)
